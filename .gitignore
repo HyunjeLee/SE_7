@@ -13,12 +13,6 @@ server/se7-server/.idea/
 
 server/se7-server_ssh/src/main/resources/application.yml
 
-#front 제외 전부 ignore
-server/
-발표/
-요구사항 명세서/
-유스케이스 다이어그램/
-클래스 다이어그램/
 
 
 ####################java ignore###############
