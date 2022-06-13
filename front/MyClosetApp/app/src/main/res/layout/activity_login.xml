@@ -59,7 +59,7 @@
         android:drawableTint="#FFEB3B"
         android:foregroundTint="#9C27B0"
         android:text="회원가입"
-        android:textColor="@color/purple_500"
+        android:textColor="#00BCD4"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 
